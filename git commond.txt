@@ -7,3 +7,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/poojakachawa/listrace.git
 git push -u origin main
+
+for Push code on githuib-
+
+git add .
+git commit -m "Your massage"
+git push -u origin main
